@@ -1,7 +1,8 @@
 {
     "name": "fiberno/pkg",
     "description": "this my first package",
-    "type": "compsoer-plugin",
+    "type": "composer-plugin",
+    "keywords": ["fiberno", "pkg"],
     "require": {
         "php": "~7.0",
         "guzzlehttp/guzzle": "^6.3",
